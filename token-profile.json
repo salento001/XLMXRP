@@ -2,7 +2,7 @@
   "name": "XMLXRP",
   "issuer": "rPcZxRXpv6ucjqFqyMDd54sV5G68Dn2fqa",
   "description": "XMLXRP è un wrapped token che rappresenta Stellar (XLM) su XRPL. Consente transazioni veloci, compatibilità con Xaman/Xumm e bridge 1:1 sicuro.",
-  "website": "https://Salento001.github.io/xmlxrp",
+  "website": "https://salento001.github.io/xmlxrp",
   "symbol": "XMLXRP",
   "decimals": 6
 }
